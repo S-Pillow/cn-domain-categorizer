@@ -11,8 +11,7 @@ buckets (plus *UNCLASSIFIED* catch-all):
 * **IDN.CN**  
 * **.COM.CN / .NET.CN / .ORG.CN**
 
-![screenshot](docs/screenshot.png)
-*(optional — add one!)*
+
 
 ---
 
